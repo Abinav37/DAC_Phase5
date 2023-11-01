@@ -47,7 +47,7 @@ Before running the code, make sure you have the following installed:
    ```
    python analysis.py
    ```
-   Replace `analysis.py` with the specific Python file containing the analysis code.
+   
 
 ## Data Source
 
